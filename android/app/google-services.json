@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044716084000",
+    "project_id": "khedut-mitra-41f6e",
+    "storage_bucket": "khedut-mitra-41f6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044716084000:android:f20e85c771c7a56738d545",
+        "android_client_info": {
+          "package_name": "com.example.khedut_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrajURx4dIDhZeawBr5Xk4J_BAnqFnrCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
